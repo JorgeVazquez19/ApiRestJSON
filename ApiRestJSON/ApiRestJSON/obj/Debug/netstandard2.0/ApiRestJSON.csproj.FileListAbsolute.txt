@@ -10,3 +10,15 @@ C:\Users\usuario\Documents\AppBarCode-master\ApiRestJSON\ApiRestJSON\ApiRestJSON
 C:\Users\usuario\Documents\AppBarCode-master\ApiRestJSON\ApiRestJSON\ApiRestJSON\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\usuario\Documents\AppBarCode-master\ApiRestJSON\ApiRestJSON\ApiRestJSON\obj\Debug\netstandard2.0\ApiRestJSON.dll
 C:\Users\usuario\Documents\AppBarCode-master\ApiRestJSON\ApiRestJSON\ApiRestJSON\obj\Debug\netstandard2.0\ApiRestJSON.pdb
+C:\Users\usuario\Documents\ApiRestJSON\ApiRestJSON\ApiRestJSON\bin\Debug\netstandard2.0\ApiRestJSON.deps.json
+C:\Users\usuario\Documents\ApiRestJSON\ApiRestJSON\ApiRestJSON\bin\Debug\netstandard2.0\ApiRestJSON.dll
+C:\Users\usuario\Documents\ApiRestJSON\ApiRestJSON\ApiRestJSON\bin\Debug\netstandard2.0\ApiRestJSON.pdb
+C:\Users\usuario\Documents\ApiRestJSON\ApiRestJSON\ApiRestJSON\obj\Debug\netstandard2.0\ApiRestJSON.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\ApiRestJSON\ApiRestJSON\ApiRestJSON\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\usuario\Documents\ApiRestJSON\ApiRestJSON\ApiRestJSON\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\usuario\Documents\ApiRestJSON\ApiRestJSON\ApiRestJSON\obj\Debug\netstandard2.0\ApiRestJSON.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\ApiRestJSON\ApiRestJSON\ApiRestJSON\obj\Debug\netstandard2.0\ApiRestJSON.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\ApiRestJSON\ApiRestJSON\ApiRestJSON\obj\Debug\netstandard2.0\ApiRestJSON.AssemblyInfo.cs
+C:\Users\usuario\Documents\ApiRestJSON\ApiRestJSON\ApiRestJSON\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\usuario\Documents\ApiRestJSON\ApiRestJSON\ApiRestJSON\obj\Debug\netstandard2.0\ApiRestJSON.dll
+C:\Users\usuario\Documents\ApiRestJSON\ApiRestJSON\ApiRestJSON\obj\Debug\netstandard2.0\ApiRestJSON.pdb

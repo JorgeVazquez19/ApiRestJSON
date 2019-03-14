@@ -6,14 +6,14 @@
 
     <StackLayout>
         <StackLayout HorizontalOptions="Center">
-            <Button Text="Agregar"/>
-            <Button Text="Eliminar"/>
+            <Button Text="Agregar" Clicked="Agregar_Click"/>
+            <Button Text="Eliminar" Clicked="Eliminar_Click"/>
         </StackLayout>
         <ListView x:Name="listaCursos">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
-                        <StackLayout VerticalOptions="Start">
+                        <StackLayout HorizontalOptions="Start">
                             <Label Text="{Binding Nombre}"/>
                             <Image Source="{Binding Imagen}" WidthRequest="200" HeightRequest="100"/>
                             <Label Text="{Binding Duracion}"/>
