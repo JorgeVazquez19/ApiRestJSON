@@ -46,6 +46,8 @@ namespace ApiRestJSON
             var json = resultado.Content.ReadAsStringAsync().Result;
 
             await DisplayAlert("Resultado", json, "Ok");
+
+            LlenarCursos();
         }
 
         private void Eliminar_Click(object sender, EventArgs args)

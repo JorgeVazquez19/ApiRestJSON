@@ -9,7 +9,7 @@
             <Button Text="Agregar" Clicked="Agregar_Click"/>
             <Button Text="Eliminar" Clicked="Eliminar_Click"/>
         </StackLayout>
-        <ListView x:Name="listaCursos">
+        <ListView x:Name="listaCursos" HasUnevenRows="True">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
