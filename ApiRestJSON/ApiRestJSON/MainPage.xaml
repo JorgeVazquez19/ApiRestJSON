@@ -16,7 +16,6 @@
                         <StackLayout VerticalOptions="Start">
                             <Label Text="{Binding Nombre}"/>
                             <Image Source="{Binding Imagen}" WidthRequest="200" HeightRequest="100"/>
-                            <Label Text="{Binding Descripcion}"/>
                             <Label Text="{Binding Duracion}"/>
                         </StackLayout>
                     </ViewCell>
